@@ -1,2 +1,2 @@
-# TA04-SimpleCalculator
+# Simple Calculator
  Simple Calculator
